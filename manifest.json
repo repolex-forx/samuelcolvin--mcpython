@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "mcpython",
+  "versions": [
+    {
+      "commit": "b461097e1de0d62eb31cc8658d4895d4d3a36466",
+      "parsed_at": "2026-10-11T08:20:52.834627+00:00",
+      "filetree": "filetree/b461097e1de0d62eb31cc8658d4895d4d3a36466.nq.gz",
+      "blobs": [
+        "blob/7de37d02501b6f31e15f8e7df0ee6d8bec7e1bb3.nq.gz",
+        "blob/f1da3f82a068648412c295ec9da1b6f59eb8924d.nq.gz",
+        "blob/24ee5b1be9961e38a503c8e764b7385dbb6ba124.nq.gz",
+        "blob/ffd8fdecff3710a841322ec286f2f7c1999671c7.nq.gz",
+        "blob/544d830759e7605f7be80737c0153601fce92cce.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/389dc7c281d35820f7ad03213d95fae8e77b9d2d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
