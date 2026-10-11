@@ -1,0 +1,7 @@
+[2026-10-11T08:22:14Z] === AST ITERATION 1 START | repo=samuelcolvin/mcpython sha=b461097e ===
+[2026-10-11T08:22:14Z] [iter=1] PHASE START: ast repo=samuelcolvin/mcpython sha=b461097e
+[2026-10-11T08:22:14Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T08:22:14Z] [iter=1] AST chunks built count=1 triples=6038
+[2026-10-11T08:22:14Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/b461097e1de0d62eb31cc8658d4895d4d3a36466/.complete
+[2026-10-11T08:22:14Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-11T08:22:14Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
